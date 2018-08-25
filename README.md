@@ -7,7 +7,7 @@
 1. 簡單描述如何安裝指定版本的 python binary
 > 進入virtualenv 打：pip install pytest==3.0.7
 2. 安裝完 pytest 3.0.7 後, 請用 pip 將當前環境印出並付上
-
+![GitHub Logo](https://github.com/ekils/RESTful_api_Test/blob/master/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202018-08-24%20%E4%B8%8A%E5%8D%8810.17.28.png)
 
 # 問題2 除錯
 
@@ -50,7 +50,7 @@ unicode to str: u'string'.encode('utf8')
 > 我會先建一個專案名稱：CW 然後在其下面再創建一個app名為:nba
 > 然後在nba裡面設置views, urls, models
 > CW下的urls會把路徑導去nba下的urls，這樣比較好讓nbs控制url
-
+![GitHub Logo](https://github.com/ekils/RESTful_api_Test/blob/master/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202018-08-23%20%E4%B8%8B%E5%8D%884.38.53.png)
 
 # 問題4 實做
 
